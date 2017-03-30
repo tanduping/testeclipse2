@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.println("eclipse 1>2>web1");
 		System.out.println("eclipse 2");
 		System.out.println("eclipse 3");
+		System.out.println("web 2");
 	}
 
 }
