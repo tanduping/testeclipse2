@@ -6,6 +6,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		System.out.println("eclipse 1>2>web1");
 		System.out.println("eclipse 2");
+		System.out.println("eclipse 3");
 	}
 
 }
